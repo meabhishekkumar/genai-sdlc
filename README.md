@@ -1,0 +1,2 @@
+# genai-sdlc
+session slides
